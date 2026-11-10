@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 HELLO WORLD
-<!--
+
 **alinedobo/alinedobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: none | they/them
+- ⚡ Fun fact: most of my commit history is gone because I updated my email address in my profile.
